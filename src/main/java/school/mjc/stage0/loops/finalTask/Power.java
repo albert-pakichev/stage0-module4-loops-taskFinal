@@ -8,9 +8,9 @@ public class Power {
         }
         System.out.println(result);
     }
-}
+
 
     public static void main(String[] args) {
         new Power().printPower(10, 3);
     }
-
+}
